@@ -1,0 +1,1 @@
+Projects include a C++ text-based adventure game, an expense tracker, a basic web server, an image processing toolset, and a student gradebook manager. They offer diverse functionalities from interactive gaming to financial management and serve as learning platforms for network programming and image processing.
